@@ -1,0 +1,30 @@
+Objetivo do projeto:
+- Criar uma rotina de preparação para a festa
+- Acompanhar as tarefas de organização pessoal
+- Marcar etapas como concluídas
+- Remover ou ajustar tarefas da rotina
+
+Funcionalidades planejadas:
+- Adicionar itens à lista
+- Visualizar os itens
+- Marcar itens como comprados
+- Remover itens da lista
+
+Prazo de execução:
+5 dias
+
+Tarefas Diárias:
+Dia 1:
+Escolher e comprar a roupa que será usada na festa.
+
+Dia 2:
+Separar acessórios, sapatos e tudo que será usado junto com a roupa.
+
+Dia 3:
+Cuidar da aparência, como cabelo, unhas ou outros detalhes pessoais.
+
+Dia 4:
+Organizar o horário, ver o local da festa e planejar como chegar.
+
+Dia 5:
+Se arrumar para a festa, conferir se está tudo certo e ir para o evento.
