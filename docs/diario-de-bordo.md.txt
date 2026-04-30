@@ -59,3 +59,15 @@ Nenhuma dificuldade significativa.
 
 Soluções aplicadas:  
 Revisão de tudo antes de sair.
+
+Desenvolvimento de Funcionalidade: Criação da Rotina de Festa
+
+Nesta funcionalidade foi criada uma rotina de tarefas para organizar a preparação de uma pessoa antes de ir a uma festa. As atividades foram divididas em etapas diárias para facilitar o acompanhamento do que precisa ser feito.
+
+A rotina começa com a escolha da roupa, depois passa pela separação de acessórios, cuidados pessoais, organização do horário e deslocamento, e finaliza com a conferência de tudo antes de sair.
+
+O principal objetivo é deixar a preparação mais organizada e fácil de seguir, como uma lista de tarefas em sequência.
+
+A dificuldade foi distribuir bem as atividades entre os dias, evitando excesso em um único momento. Isso foi resolvido dividindo as tarefas de forma mais equilibrada.
+
+Com isso, a funcionalidade ajuda a simular uma rotina real de preparação para eventos, funcionando como um sistema simples de controle de tarefas.
